@@ -1,0 +1,8 @@
+{
+  "name": "פורטל תמיכה וסיוע נפשי",
+  "description": "מערכת תמיכה אנונימית עם לוח בקרה לניהול משברים.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
